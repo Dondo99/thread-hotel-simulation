@@ -1,4 +1,4 @@
-//Luca Donadello - lxd210013 - project 2 - Hotel threads
+//PROJECT OWNED AND DEVELOPED BY LUCA DONADELLO
 
 import java.util.LinkedList;
 import java.util.Queue;
